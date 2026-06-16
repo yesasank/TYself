@@ -1,2 +1,2 @@
 # TYself
-Personal finance Management Backend System
+Personal Finance Management Backend System
